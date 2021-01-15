@@ -2,4 +2,4 @@
 layout: slide solisoares
 title: "Welcome to our second slide of me ma brotha!"
 ---
-This is a text from solisoares.
+“The average dog is a nicer person than the average person.”
